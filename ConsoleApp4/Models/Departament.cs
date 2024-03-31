@@ -30,11 +30,11 @@ namespace ConsoleApp4.Models
         {
             employees = new Employee[0];
         }
-        public Departament(string departamentname, byte departamentno)
+        public Departament(string departamentname)
         {
             employees = new Employee[0];
             DepartamentName = departamentname;
-            DepartamentNo = departamentno;
+            
         }
         public void AddEmployee(Employee employee)
         {

@@ -9,7 +9,9 @@ namespace ConsoleApp4
             Console.ForegroundColor = ConsoleColor.Magenta;
             Console.WriteLine("|=====Welcome=====|");
             bool exit = false;
-            Departament departament = new Departament();
+            Console.WriteLine("Departament adi daxil edin");
+            string input = Console.ReadLine();
+            Departament departament = new Departament(input);
 
             do
             {
@@ -30,6 +32,7 @@ namespace ConsoleApp4
                         break;
                     case "2":
                         Console.WriteLine("|================|");
+                        Console.WriteLine($"|================={ departament.DepartamentName}=================|");
                         departament.GetAllEmployess();
                         break;
                     case "0":
