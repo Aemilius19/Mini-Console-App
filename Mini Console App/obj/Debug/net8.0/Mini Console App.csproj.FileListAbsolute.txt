@@ -1,0 +1,15 @@
+C:\Users\shiimerryPC\Desktop\Task's\Mini Console App\bin\Debug\net8.0\Mini Console App.exe
+C:\Users\shiimerryPC\Desktop\Task's\Mini Console App\bin\Debug\net8.0\Mini Console App.deps.json
+C:\Users\shiimerryPC\Desktop\Task's\Mini Console App\bin\Debug\net8.0\Mini Console App.runtimeconfig.json
+C:\Users\shiimerryPC\Desktop\Task's\Mini Console App\bin\Debug\net8.0\Mini Console App.dll
+C:\Users\shiimerryPC\Desktop\Task's\Mini Console App\bin\Debug\net8.0\Mini Console App.pdb
+C:\Users\shiimerryPC\Desktop\Task's\Mini Console App\obj\Debug\net8.0\Mini Console App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiimerryPC\Desktop\Task's\Mini Console App\obj\Debug\net8.0\Mini Console App.AssemblyInfoInputs.cache
+C:\Users\shiimerryPC\Desktop\Task's\Mini Console App\obj\Debug\net8.0\Mini Console App.AssemblyInfo.cs
+C:\Users\shiimerryPC\Desktop\Task's\Mini Console App\obj\Debug\net8.0\Mini Console App.csproj.CoreCompileInputs.cache
+C:\Users\shiimerryPC\Desktop\Task's\Mini Console App\obj\Debug\net8.0\Mini Console App.sourcelink.json
+C:\Users\shiimerryPC\Desktop\Task's\Mini Console App\obj\Debug\net8.0\Mini Console App.dll
+C:\Users\shiimerryPC\Desktop\Task's\Mini Console App\obj\Debug\net8.0\refint\Mini Console App.dll
+C:\Users\shiimerryPC\Desktop\Task's\Mini Console App\obj\Debug\net8.0\Mini Console App.pdb
+C:\Users\shiimerryPC\Desktop\Task's\Mini Console App\obj\Debug\net8.0\Mini Console App.genruntimeconfig.cache
+C:\Users\shiimerryPC\Desktop\Task's\Mini Console App\obj\Debug\net8.0\ref\Mini Console App.dll
